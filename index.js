@@ -1,7 +1,7 @@
 /**  
  * QAP 1 PASSSWORD GENERATOR
  * Author: Cody Collins
- * Date: 2025-01-22 - 
+ * Date: 2025-01-23
  * Description: A simple CLI application to generate passwords
 */
 
